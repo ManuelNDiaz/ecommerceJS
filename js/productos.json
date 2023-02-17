@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "nombre": "475RP",
+        "cantidad": 1,
+        "precio": 1650,
+        "img": "img/1rp.png"
+    },  
+    {  
+        "id": 2,
+        "nombre": "1300RP",
+        "cantidad": 1,
+        "precio": 4500,
+        "fondo": "srp",
+        "img": "img/2rp.png"
+    },
+    {
+        "id": 3,
+        "nombre": "2375RP",
+        "cantidad": 1,
+        "precio": 8500,
+        "fondo": "trp",
+        "img": "img/3rp.png"
+    },
+    {
+        "id": 4,
+        "nombre": "4175RP",
+        "cantidad": 1,
+        "precio": 16550,
+        "fondo": "bagrp",
+        "img": "img/bagrp.png"
+    },
+    {
+        "id": 5,
+        "nombre": "7150RP",
+        "cantidad": 1,
+        "precio": 28500,
+        "fondo": "bgrp",
+        "img": "img/2bagrp.png"
+    },
+    {
+        "id": 6,
+        "nombre": "10725RP",
+        "cantidad": 1,
+        "precio": 40000,
+        "fondo": "chestrp",
+        "img": "img/chestrp.png"
+    }    
+  ]
