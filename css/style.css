@@ -600,6 +600,7 @@ body{
     font-size: 40px;
     position: relative;
     margin-bottom: 1rem;
+    color: white;
 }
 
 .title::after {
@@ -608,7 +609,7 @@ body{
     bottom: 0;
     left: 0;
     height: 3px;
-    background-color: #fff;
+    background-color: #ffffff;
     width: 140px;
 }
 
@@ -618,6 +619,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 1rem;
+    color: #9b9b9b;
 }
 
 .uc__description {
