@@ -7,6 +7,7 @@
 }
 body{
     font-family: var(--sm-font);
+    background: linear-gradient(118deg, rgb(11, 23, 31) 31%, rgb(11, 26, 43) 82%);
 }
 
 
@@ -47,23 +48,17 @@ body{
     letter-spacing: 0.5px;
     padding: 0 10px;
     margin: 5px;
-  }
-  .nav-link::after {
-    content: "";
-    position: absolute;
-    background-color: #0049d1;
-    height: 3px;
-    width: 0;
-    left: 0;
-    bottom: -10px;
     transition: 0.3s;
+    opacity: 0.8;
   }
-  .nav-link:hover {
-    color: #0049d1;
+  
+.navbar-nav:hover a { 
+    opacity: 0.25;
   }
-  .nav-link:hover::after {
-    width: 100%;
-  }
+
+.navbar-nav a:hover {
+     opacity: 1;}
+
 .nav-item{
     border-bottom: 0.5px solid rgba(0, 0, 0, 0.05);
 }
@@ -313,6 +308,7 @@ body{
     justify-content: center;
     align-content: center;
     text-align: center;
+    color: white;
   }
 
 

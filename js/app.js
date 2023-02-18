@@ -221,3 +221,4 @@ function eliminarProducto(id){
 function guardarStorage(){
   localStorage.setItem("carrito", JSON.stringify(carrito))
 } // LocalStorage
+
